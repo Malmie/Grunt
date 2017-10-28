@@ -9,7 +9,7 @@ h1, h2 {
 }
 header {
 	padding: 30px;
-	background-image: url(https://images.pexels.com/photos/239520/pexels-photo-239520.jpeg?h=350&auto=compress&cs=tinysrgb);
+	background-image: url(images/photo.jpeg); /*nie działa ?*/
 	background-repeat: no-repeat;
 	background-size: cover;
 	
